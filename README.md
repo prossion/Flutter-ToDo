@@ -1,6 +1,11 @@
-# flutter_verstka
+# Flutter ToDo application
 
-A new Flutter project.
+Todo application in Flutter
+
+### In this project I have used:
+- cloud_firestore
+- firebase_core
+- provider, You will see more in the pubspec.yaml file
 
 ## Getting Started
 
